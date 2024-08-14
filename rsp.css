@@ -1,0 +1,22 @@
+*{
+box-sizing:border-box ;
+
+}
+.header{
+
+padding:20px ;
+text-align: center;
+}
+.menu{
+border: 2px ;
+width: 25%;
+float: left;
+height: 100hv;
+}
+.main{
+
+width: 25%;
+float: left;
+height: 100vh;
+
+}
